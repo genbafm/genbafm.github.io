@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>genba.fm</title>
+  <subtitle>フロントエンド - 現場の声</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://genba.fm/"/>
+  <updated>2017-04-18T12:49:42.000Z</updated>
+  <id>https://genba.fm/</id>
+  
+  <author>
+    <name>mizchi / armorik83</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#0 React vs Angular - あるいは Functional JavaScript</title>
+    <link href="https://genba.fm/react-vs-angular/"/>
+    <id>https://genba.fm/react-vs-angular/</id>
+    <published>2017-04-18T06:30:52.000Z</published>
+    <updated>2017-04-18T12:49:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;amp-audio&gt;&lt;br&gt;  &lt;source type=&quot;audio/mpeg&quot; src=&quot;https://s3-ap-northeast-1.amazonaws.com/genbafm/genba-fm-0.mp3&quot;&gt;&lt;br&gt;&lt;/amp-audio&gt;&lt;/p&gt;
+&lt;ul&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
