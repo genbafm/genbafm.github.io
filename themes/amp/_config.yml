@@ -4,14 +4,15 @@ menu:
   archive: /archives
 
 # Miscellaneous
-google_analytics: 
+google_analytics: UA-97496834-1
+
 
 # Article schema
 # https://developers.google.com/structured-data/rich-snippets/articles#article_markup_properties
 schema:
   image:
     url: /img/700.png
-    height: 700 
+    height: 700
     width: 700 # <= 696
   publisher:
     name: Yourpublisher
