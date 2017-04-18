@@ -5,7 +5,7 @@ tags:
 ---
 
 <amp-audio>
-  <source type="audio/mpeg" src="https://s3-ap-northeast-1.amazonaws.com/genbafm/genba-fm-0.mp3">
+  <source type="audio/mpeg" src="https://genba.fm/raw-assets/genba-fm-0-reduced.mp3">
 </amp-audio>
 
 - [@mizchi](https://twitter.com/mizchi)
