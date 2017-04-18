@@ -1,11 +1,10 @@
 # Header
 menu:
   home: /
-  archive: /archives
+  archive: /archives/
 
 # Miscellaneous
 google_analytics: UA-97496834-1
-
 
 # Article schema
 # https://developers.google.com/structured-data/rich-snippets/articles#article_markup_properties
@@ -15,7 +14,7 @@ schema:
     height: 700
     width: 700 # <= 696
   publisher:
-    name: Yourpublisher
+    name: genbafm
     logo:
       url: /img/700.png
       width: 600 # <= 600
