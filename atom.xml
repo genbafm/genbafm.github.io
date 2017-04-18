@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>genba.fm</title>
   <subtitle>フロントエンド - 現場の声</subtitle>
-  <link href="https://genba.fm/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="https://genba.fm/"/>
   <updated>2017-04-18T12:49:42.000Z</updated>
