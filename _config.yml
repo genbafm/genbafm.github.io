@@ -89,3 +89,10 @@ generator_amp:
   #   height: 800
   warningLog: true
   google_analytics: UA-97496834-1
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
