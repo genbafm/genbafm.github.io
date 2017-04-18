@@ -71,7 +71,7 @@ theme: amp
 deploy:
   type: git
   repo: git@github.com:genbafm/genbafm.github.io.git
-  branch: gh-pages
+  branch: master
 
 ### plugins ###
 
