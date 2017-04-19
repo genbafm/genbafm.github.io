@@ -19,6 +19,25 @@ type: audio/mpeg
 
 mizchi と armorik83 で このラジオの趣旨, React, Angular, SSRの是非, Rx, Redux, JavaScript における関数型プログラミングの今後について話しました。
 
+- 全52分
+  - 00:00 現場.fmを立ち上げた経緯と自己紹介
+  - 03:06 SPAはフロントエンドの主流なのか
+  - 05:10 サーバーサイドレンダリング事情
+  - 09:10 SSRって結局必要なのか
+  - 14:02 Angularの提供するAPIの細分化
+  - 15:40 RxJS, TypeScript
+  - 24:50 Functional JavaScript
+  - 28:25 Flow
+  - 30:10 Reduxとmiddleware
+  - 35:14 AngularでのRxJSとDIの関係
+  - 37:50 Angular Componentの現場
+  - 39:27 シンプル化への揺り戻し
+  - 41:47 魂が震えた記事と技術情報の輸入
+  - 42:45 日本と海外の情報ギャップ
+  - 44:40 海外からの情報の仕入れ
+  - 46:23 React Router v4のBreaking Change
+  - 50:11 エンドトーク（Splatoon 2）
+
 感想は Twitter または Mastodon の `#genbafm` まで。
 
 ---
