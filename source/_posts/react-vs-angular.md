@@ -6,6 +6,7 @@ tags:
   - Angular
 category: podcast # must be exactly `podcast`
 media: /genba-fm-0-reduced.mp3 # placed under //URL/to/static/resources/path/to/media
+image: /karilogo.png
 type: audio/mpeg
 ---
 
