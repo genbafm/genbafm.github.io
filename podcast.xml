@@ -11,7 +11,7 @@
       <itunes:name>genba.fm</itunes:name>
       <itunes:email>mizchi2w@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://genba.fm/raw-assets/karilogo.png" />
+    <itunes:image href="https://genba.fm/raw-assets/genbafm-logo.png" />
     <itunes:category text="Technology">
       <itunes:category text="Technology" />
     </itunes:category>
@@ -60,7 +60,7 @@ React と Angular はお互い雑な理解ですが、それ以外のJSの共通
       <itunes:author> mizchi / armorik83</itunes:author>
       <itunes:subtitle> </itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="https://genba.fm/raw-assets/karilogo.png" />
+      <itunes:image href="https://genba.fm/raw-assets/genbafm-logo.png" />
       <enclosure url="https://genba.fm/raw-assets/genba-fm-0-reduced.mp3" length="" type=""/>
       <guid></guid>
       <pubDate>Tue, 18 Apr 2017 06:30:52 GMT</pubDate>
