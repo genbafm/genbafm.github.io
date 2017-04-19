@@ -9,7 +9,7 @@ description: フロントエンド開発の現場を届けるラジオ
 author: mizchi / armorik83
 language: ja-jp
 timezone:
-default_thumb: "/raw-assets/karilogo.png"
+default_thumb: "/raw-assets/genbafm-logo.png"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

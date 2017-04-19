@@ -5,8 +5,8 @@ tags:
   - React
   - Angular
 category: podcast # must be exactly `podcast`
-media: /genba-fm-0-reduced.mp3 # placed under //URL/to/static/resources/path/to/media
-image: /karilogo.png
+media: /genba-fm-0-reduced.mp3
+image: /genbafm-logo.png
 type: audio/mpeg
 ---
 
