@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>genba.fm</title>
+    <link>https://genba.fm/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>mizchi / armorik83</itunes:author>
+    <itunes:summary>フロントエンド開発の現場を届けるラジオ</itunes:summary>
+    <itunes:owner>
+      <itunes:name>genba.fm</itunes:name>
+      <itunes:email>mizchi2w@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://genba.fm/images/genlogo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <language>ja-JP</language>
+    
+    <item>
+      <title>#0 React vs Angular - あるいは Functional JavaScript</title>
+      <description>   
+
+@mizchi
+@armorik83
+
+mizchi と armorik83 で このラジオの趣旨, React, Angular, SSRの是非, Rx, Redux, JavaScript における関数型プログラミングの今後について話しました。
+感想は Twitter または Mastodon の #genbafm まで。
+
+反省とか。
+
+初回なんで段取りが悪くて、とくに序盤の話の流れがよくない。
+React と Angular はお互い雑な理解ですが、それ以外のJSの共通部分に関して、かなりコンテキストが圧縮されてます。
+部屋のせいでリバーブが掛かったぽくなってます。次から修正したい。
+
+ </description>
+      <itunes:author> mizchi / armorik83</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="https://genba.fm/raw-assets" />
+      <enclosure url="https://genba.fm/raw-assets/genba-fm-0-reduced.mp3" length="" type=""/>
+      <guid></guid>
+      <pubDate>Tue, 18 Apr 2017 06:30:52 GMT</pubDate>
+      <itunes:duration></itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>

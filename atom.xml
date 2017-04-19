@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://genba.fm/"/>
-  <updated>2017-04-18T17:07:44.000Z</updated>
+  <updated>2017-04-19T02:37:07.000Z</updated>
   <id>https://genba.fm/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://genba.fm/react-vs-angular/"/>
     <id>https://genba.fm/react-vs-angular/</id>
     <published>2017-04-18T06:30:52.000Z</published>
-    <updated>2017-04-18T17:07:44.000Z</updated>
+    <updated>2017-04-19T02:37:07.000Z</updated>
     
     <summary type="html">
     
@@ -30,6 +30,12 @@
     
     </summary>
     
+      <category term="podcast" scheme="https://genba.fm/categories/podcast/"/>
+    
+    
+      <category term="React" scheme="https://genba.fm/tags/React/"/>
+    
+      <category term="Angular" scheme="https://genba.fm/tags/Angular/"/>
     
   </entry>
   
