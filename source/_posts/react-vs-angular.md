@@ -2,6 +2,11 @@
 title: '#0 React vs Angular - あるいは Functional JavaScript'
 date: 2017-04-18 15:30:52
 tags:
+  - React
+  - Angular
+category: podcast # must be exactly `podcast`
+media: /genba-fm-0-reduced.mp3 # placed under //URL/to/static/resources/path/to/media
+type: audio/mpeg
 ---
 
 <amp-audio>

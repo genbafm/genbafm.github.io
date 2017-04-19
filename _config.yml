@@ -9,6 +9,7 @@ description: フロントエンド開発の現場を届けるラジオ
 author: mizchi / armorik83
 language: ja-jp
 timezone:
+default_thumb: "/images/genlogo.png"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -96,3 +97,17 @@ feed:
   limit: 20
   hub:
   content:
+
+## Podcast
+podcast:
+  type: rss2
+  path: podcast.xml
+  limit: 20
+  hub:
+  url: https://genba.fm/raw-assets
+  description: ロントエンド開発の現場を届けるラジオ
+  language: ja-JP
+  copyright: "COPYRIGHT genba.fm 2017-"
+  owner: genba.fm
+  email: mizchi2w@gmail.com
+  category: Technology
