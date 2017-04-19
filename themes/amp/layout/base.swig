@@ -15,7 +15,7 @@
     {% endif %}
 
     <title>{% if title %}{{ title }} - {% endif %}{{ config.title }}</title>
-    <link rel="canonical" href="{{ url_for(url) }}">
+    <link rel="canonical" href="{{ url_for(url).replace('index.html', '') }}">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 	  <meta name="description" content="{{ config.description }}">
     <meta name="author" content="{{ config.author }}">
