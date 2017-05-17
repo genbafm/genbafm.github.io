@@ -19,6 +19,29 @@
     <language>ja-JP</language>
     
     <item>
+      <title>#1 Awesome Vue</title>
+      <description>   
+
+@mizchi
+@kazu_pon
+
+kazupon さんをゲストにお迎えして Vue.js 周辺について話を聞きました。
+TODO: あとで時間配分を書く
+ </description>
+      <itunes:author> mizchi / armorik83</itunes:author>
+      <itunes:subtitle> </itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="https://genba.fm/raw-assets/genbafm-logo.png" />
+      <enclosure url="https://genba.fm/raw-assets/genba-fm-1-vue-with-kazupon.mp3" length="" type=""/>
+      <guid></guid>
+      <pubDate>Wed, 17 May 2017 15:23:38 GMT</pubDate>
+      <itunes:duration></itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
       <title>#0 React vs Angular - あるいは Functional JavaScript</title>
       <description>   
 
