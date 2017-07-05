@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://genba.fm/"/>
-  <updated>2017-05-21T14:45:47.000Z</updated>
+  <updated>2017-07-05T08:17:01.000Z</updated>
   <id>https://genba.fm/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>#2 WASM on 現場</title>
+    <link href="https://genba.fm/wasm/"/>
+    <id>https://genba.fm/wasm/</id>
+    <published>2017-07-05T08:16:00.000Z</published>
+    <updated>2017-07-05T08:17:01.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;amp-audio&gt;&lt;br&gt;  &lt;source type=&quot;audio/mpeg&quot; src=&quot;https://genba.fm/raw-assets/genba-fm-2-wasm.mp3&quot;&gt;&lt;br&gt;&lt;/amp-audio&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;h
+    
+    </summary>
+    
+      <category term="podcast" scheme="https://genba.fm/categories/podcast/"/>
+    
+    
+      <category term="WebAssembly" scheme="https://genba.fm/tags/WebAssembly/"/>
+    
+  </entry>
   
   <entry>
     <title>#1 Awesome Vue</title>

@@ -66,6 +66,115 @@
 	<header>
 	    
             <div class="article__header__meta">
+                <time class="article__header__meta__time" datetime="2017-07-05T08:16:00.000Z">
+                    <a href="/wasm/">2017-07-05</a>
+                </time>
+	        </div>
+	    
+	    
+    
+        <h1 class="article__header__title">
+            <a href="/wasm/">#2 WASM on 現場</a>
+        </h1>
+    
+
+	</header>
+    <div class="article__entry">
+	    
+	    <p><amp-audio><br>  <source type="audio/mpeg" src="https://genba.fm/raw-assets/genba-fm-2-wasm.mp3"><br></amp-audio></p>
+<ul>
+<li><a href="https://twitter.com/mizchi" target="_blank" >@mizchi</a></li>
+<li><a href="https://twitter.com/armorik83" target="_blank" >@armorik83</a></li>
+<li><a href="https://www.facebook.com/likr0" target="_blank" >likr0</a></li>
+</ul>
+<p>likr0(尾上) さんをゲストにお迎えして WebAssembly 周辺について話を聞きました。<br>mizchi がちょっと酒入って酔ってる + 83さんの音声の収録を失敗したので、思い出しながら後付で別撮りしたという感じになってます。</p>
+<h2 id="タイムテーブル"><a href="#タイムテーブル" class="headerlink" title="タイムテーブル"></a>タイムテーブル</h2><ul>
+<li>00:00 挨拶とゲスト尾上さんの自己紹介</li>
+<li>00:58 尾上さんをゲストに招いた経緯</li>
+<li>02:07 WebAssemblyはなぜ必要とされたか</li>
+<li>04:40 「WASMはもう使えるようになってきたなっていう印象を持っている」</li>
+<li>05:23 WASMはasm.jsよりパース速度、実行速度を改善した</li>
+<li>06:11 WASMとasm.jsを比較すると</li>
+<li>08:20 ES Modulesのローディング周り</li>
+<li>08:46 WASMをどんなものに使った？</li>
+<li>09:55 SIMD.js</li>
+<li>10:47 WASMとJSでは線形代数ライブラリの実行速度の桁が違う<ul>
+<li>ベンチマークとってみた <a href="https://likr.github.io/matmul-bench/" target="_blank" >https://likr.github.io/matmul-bench/</a></li>
+</ul>
+</li>
+<li>11:50 巨大なWASMライブラリのファイルサイズ問題</li>
+<li>13:33 main関数からすべて他の言語で書いて最適化する</li>
+<li>15:18 WASMの現実的な用途</li>
+<li>16:02 Virtual DOMのWASM実装</li>
+<li>16:45 WASMを動作させる環境とブラウザによる実装の差</li>
+<li>17:35 Emscripten、大統一抽象言語LLVM IR<ul>
+<li>GNUも頑張るらしいよ <a href="https://sourceware.org/ml/binutils/2017-03/msg00044.html" target="_blank" >https://sourceware.org/ml/binutils/2017-03/msg00044.html</a></li>
+</ul>
+</li>
+<li>19:19 手書きasm.js</li>
+<li>21:23 手書きWASMとWAST</li>
+<li>23:40 WASMの当初の目論見と現在の高速さ</li>
+<li>24:21 もし将来JavaScriptに型が付いたらWASMと親和性が上がる？</li>
+<li>27:00 AssemblyScript</li>
+<li>27:33 パフォーマンス・チューニングの現場でのWASMの選択肢</li>
+<li>29:53 GC Integration</li>
+<li>30:07 あらゆる言語でWebを書く未来はくるか<ul>
+<li>今wasmがかける言語 <a href="https://github.com/mbasso/awesome-wasm#languages" target="_blank" >https://github.com/mbasso/awesome-wasm#languages</a></li>
+</ul>
+</li>
+<li>32:13 JSの言語仕様でどうしようもないこと</li>
+<li>33:10 Rustはメジャーな言語</li>
+<li>36:25 <a href="https://github.com/anowell/quasar" target="_blank" >Quasar</a></li>
+<li>37:13 Universal JavaScriptに対するUniversal(好きな言語)という発想</li>
+<li>38:30 「人類はJavaScriptを手放すべきだ」</li>
+<li>39:54 Dartの失敗から学ぶことは多い</li>
+<li>40:45 WASMは標準として生き残り続けるか</li>
+<li>41:43 将来どんな言語になってもWeb APIに熟知しといたらいい</li>
+<li>42:04 WASMのスレッドの扱いとWorkerの関係</li>
+<li>43:25 Vulkan, WebGL, Metal, Web GPU</li>
+<li>45:30 ブラウザsandbox内の世界とWASM</li>
+<li>47:19 JavaScriptは難読化されても頑張れば読める、WASMは？</li>
+<li>49:40 <a href="https://github.com/facebook/prepack" target="_blank" >facebook/prepack</a></li>
+<li>51:50 JavaScriptを事前にコンパイルすれば高速になるか？</li>
+<li>52:37 Rustは楽しい</li>
+<li>53:30 mizchiのやってみたいこと</li>
+<li>54:28 ライブラリ読み込みの工夫</li>
+<li>56:10 いまWASMに足りないものはあるか</li>
+<li>56:46 EmscriptenのEmbind</li>
+<li>57:25 複数のWASMモジュールとグルー言語としてのJavaScript</li>
+<li>58:36 光の速度はどうにもならない、どうやって読み込みを速くするか、あるいはPWA</li>
+<li>60:04 分割が難しいなら全部WASMでやるか</li>
+<li>60:50 Emscriptenの機能と学び方</li>
+<li>62:40 エンドトーク 我々は今のうちに何ができるか</li>
+</ul>
+
+	    
+	</div>
+    <footer class="article__footer clearfix">
+	    
+<div class="categories">
+	
+	<a href="/categories/podcast/">podcast</a>
+	
+</div>
+
+	    
+<div class="tags">
+	
+	<a href="/tags/WebAssembly/">#WebAssembly</a>
+	
+</div>
+
+	</footer>
+    
+
+</article>
+
+
+<article class="article post">
+	<header>
+	    
+            <div class="article__header__meta">
                 <time class="article__header__meta__time" datetime="2017-05-17T15:23:38.000Z">
                     <a href="/awesome-vue/">2017-05-18</a>
                 </time>
