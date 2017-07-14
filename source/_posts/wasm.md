@@ -31,15 +31,13 @@ mizchi がちょっと酒入って酔ってる + 83さんの音声の収録を�
 - 08:20 ES Modulesのローディング周り
 - 08:46 WASMをどんなものに使った？
 - 09:55 SIMD.js
-- 10:47 WASMとJSでは線形代数ライブラリの実行速度の桁が違う
-  - ベンチマークとってみた https://likr.github.io/matmul-bench/
+- 10:47 WASMとJSでは線形代数ライブラリの実行速度の桁が違う: ベンチマークとってみた https://likr.github.io/matmul-bench/
 - 11:50 巨大なWASMライブラリのファイルサイズ問題
 - 13:33 main関数からすべて他の言語で書いて最適化する
 - 15:18 WASMの現実的な用途
 - 16:02 Virtual DOMのWASM実装
 - 16:45 WASMを動作させる環境とブラウザによる実装の差
 - 17:35 Emscripten、大統一抽象言語LLVM IR
-  - GNUも頑張るらしいよ https://sourceware.org/ml/binutils/2017-03/msg00044.html
 - 19:19 手書きasm.js
 - 21:23 手書きWASMとWAST
 - 23:40 WASMの当初の目論見と現在の高速さ
@@ -47,8 +45,7 @@ mizchi がちょっと酒入って酔ってる + 83さんの音声の収録を�
 - 27:00 AssemblyScript
 - 27:33 パフォーマンス・チューニングの現場でのWASMの選択肢
 - 29:53 GC Integration
-- 30:07 あらゆる言語でWebを書く未来はくるか
-  - 今wasmがかける言語 https://github.com/mbasso/awesome-wasm#languages
+- 30:07 あらゆる言語でWebを書く未来はくるか: 今wasmがかける言語 https://github.com/mbasso/awesome-wasm#languages
 - 32:13 JSの言語仕様でどうしようもないこと
 - 33:10 Rustはメジャーな言語
 - 36:25 [Quasar](https://github.com/anowell/quasar)
